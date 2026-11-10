@@ -1,4 +1,4 @@
-package auh
+package auth
 
 import (
 	"errors"
