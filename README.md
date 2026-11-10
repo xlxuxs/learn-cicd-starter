@@ -1,4 +1,4 @@
-![alt text goes here](IMAGE_URL)
+![alt text goes here](https://github.com/xlxuxs/learn-cicd-starter/actions/workflows/ci.yml)
 
 # learn-cicd-starter (Notely)
 
