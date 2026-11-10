@@ -1,3 +1,5 @@
+![alt text goes here](IMAGE_URL)
+
 # learn-cicd-starter (Notely)
 
 Abraham's version of Boot.dev's Notely app."
